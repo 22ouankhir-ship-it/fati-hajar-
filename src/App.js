@@ -1,10 +1,9 @@
+
 import Header from "./Component/header";
 function App() {
-  return (
+  return(
     <div >
       <Header/>
-    </div>
-  );
-}
+     </div>)}
 
 export default App;
