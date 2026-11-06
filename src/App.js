@@ -1,6 +1,6 @@
 
 import Header from "./Component/header";
-import Footer from "./component/footer";
+import Footer from "./Component/footer";
 function App() {
   return (
     <div >
